@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RedDragon.label>Roter Drache</RedDragon.label>
+  <RedDragon.description>Wiedererwachte Geschöpfe die man nur aus Legenden und Mythen kannte. Den alten Sagen nach schlummerten die rote Drachen tief im Inneren der Erde, bis etwas ihren Unmut schürte und sie sich im Zorn erhebten um ihre Welt mit Flammen zu reinigen. Der Donner kündigt in Ehrfurcht ihr Kommen, der tosende Wind flieht vorm ersten Flügelschlag. Stahl berstet zu Staub an glänzenden Schuppen, während ein Peitschenhieb mit dem Schwanz zur Antwort Knochen bricht wie Zweige. Eingesogen bringt ihr Atem den sicheren Tod. Sie sind scharfsinnig, gerissen und unglaublich alt.</RedDragon.description>
+  <RedDragon.tools.0.label>Linke Klaue</RedDragon.tools.0.label>
+  <RedDragon.tools.1.label>Right claw</RedDragon.tools.1.label>
+  <RedDragon.tools.3.label>Horn</RedDragon.tools.3.label>
+  <RedDragon_Leather.label>Rotes Drachenleder</RedDragon_Leather.label>
+  <RedDragon_Leather.description>Rotes Drachenelder. Sehr hart.</RedDragon_Leather.description>
+  <RedDragon_Leather.stuffProps.stuffAdjective>Rotes Drachenleder</RedDragon_Leather.stuffProps.stuffAdjective>
+  <RedDragon_Meat.label>Drachenfleisch</RedDragon_Meat.label>
+  <RedDragon_Meat.description>Drachenfleisch</RedDragon_Meat.description>
+  <RedDragon_Corpse.label>Roter Drachen Kadaver</RedDragon_Corpse.label>
+  <RedDragon_Corpse.description>Der geschundene Kadaver eines roten Drachen.</RedDragon_Corpse.description>
+
+</LanguageData>

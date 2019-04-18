@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DragonHorn.label>Drachenhorn</DragonHorn.label>
+  <DragonHorn.description>Das Horn eines roten Drachen. Es ist rasiermesserscharf, unglaublich hart und unbezahlbar auf den meisten Märkten. Eine sagenhafte Trophäe, welche von Ruhm, Ehre und den Heldentaten derer erzählt, die sich vor der Feuersbrunst dieser Bestie nicht versteckten.</DragonHorn.description>
+  <DragonHorn.tools.0.label>Spitze</DragonHorn.tools.0.label>
+  <DragonHorn.tools.1.label>Schaft</DragonHorn.tools.1.label>
+
+</LanguageData>
