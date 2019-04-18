@@ -3,24 +3,24 @@
 
   <RedDragon.label>Roter Drache</RedDragon.label>
   <RedDragon.labelPlural>Rote Drachen</RedDragon.labelPlural>
-  <RedDragon.lifeStages.0.label>Rotes Drachenjunges</RedDragon.lifeStages.0.label>
-  <RedDragon.lifeStages.0.labelPlural>Rote Drachenjungen</RedDragon.lifeStages.0.labelPlural>
-  <RedDragon.lifeStages.0.labelMale>Rotes Drachenjunges</RedDragon.lifeStages.0.labelMale>
-  <RedDragon.lifeStages.0.labelMalePlural>Rote Drachenjungen</RedDragon.lifeStages.0.labelMalePlural>
-  <RedDragon.lifeStages.0.labelFemale>Rotes Drachenjunges</RedDragon.lifeStages.0.labelFemale>
-  <RedDragon.lifeStages.0.labelFemalePlural>Rote Drachenjunges</RedDragon.lifeStages.0.labelFemalePlural>
-  <RedDragon.lifeStages.1.label>Roter Drachen Wyvern</RedDragon.lifeStages.1.label>
-  <RedDragon.lifeStages.1.labelPlural>Rote Drachen Wyvern</RedDragon.lifeStages.1.labelPlural>
-  <RedDragon.lifeStages.1.labelMale>Rotes Drachen Wyvern</RedDragon.lifeStages.1.labelMale>
-  <RedDragon.lifeStages.1.labelMalePlural>Rote Drachen Wyvern</RedDragon.lifeStages.1.labelMalePlural>
-  <RedDragon.lifeStages.1.labelFemale>Rote Drachen Wyvern</RedDragon.lifeStages.1.labelFemale>
-  <RedDragon.lifeStages.1.labelFemalePlural>Rote Drachen Wyvern</RedDragon.lifeStages.1.labelFemalePlural>
-  <RedDragon.lifeStages.2.label>Roter Drachen Lindwurm</RedDragon.lifeStages.2.label>
-  <RedDragon.lifeStages.2.labelPlural>Rote Drachen Lindwürmer</RedDragon.lifeStages.2.labelPlural>
-  <RedDragon.lifeStages.2.labelMale>Roter Drachen Lindwurm</RedDragon.lifeStages.2.labelMale>
-  <RedDragon.lifeStages.2.labelMalePlural>Rote Drachen Lindwürmer</RedDragon.lifeStages.2.labelMalePlural>
-  <RedDragon.lifeStages.2.labelFemale>Roter Drachen Lindwurm</RedDragon.lifeStages.2.labelFemale>
-  <RedDragon.lifeStages.2.labelFemalePlural>Rote Drachen Lindwürmer</RedDragon.lifeStages.2.labelFemalePlural>
+  <RedDragon.lifeStages.0.label>Roter Drachen Wyvern</RedDragon.lifeStages.0.label>
+  <RedDragon.lifeStages.0.labelPlural>Rote Drachen Wyvern</RedDragon.lifeStages.0.labelPlural>
+  <RedDragon.lifeStages.0.labelMale>Rotes Drachen Wyvern</RedDragon.lifeStages.0.labelMale>
+  <RedDragon.lifeStages.0.labelMalePlural>Rote Drachen Wyvern</RedDragon.lifeStages.0.labelMalePlural>
+  <RedDragon.lifeStages.0.labelFemale>Rote Drachen Wyvern</RedDragon.lifeStages.0.labelFemale>
+  <RedDragon.lifeStages.0.labelFemalePlural>Rote Drachen Wyvern</RedDragon.lifeStages.0.labelFemalePlural>
+  <RedDragon.lifeStages.1.label>Roter Drachen Lindwurm</RedDragon.lifeStages.1.label>
+  <RedDragon.lifeStages.1.labelPlural>Rote Drachen Lindwürmer</RedDragon.lifeStages.1.labelPlural>
+  <RedDragon.lifeStages.1.labelMale>Roter Drachen Lindwurm</RedDragon.lifeStages.1.labelMale>
+  <RedDragon.lifeStages.1.labelMalePlural>Rote Drachen Lindwürmer</RedDragon.lifeStages.1.labelMalePlural>
+  <RedDragon.lifeStages.1.labelFemale>Roter Drachen Lindwurm</RedDragon.lifeStages.1.labelFemale>
+  <RedDragon.lifeStages.1.labelFemalePlural>Rote Drachen Lindwürmer</RedDragon.lifeStages.1.labelFemalePlural>
+  <RedDragon.lifeStages.2.label>Roter Drachen</RedDragon.lifeStages.2.label>
+  <RedDragon.lifeStages.2.labelPlural>Rote Drachen</RedDragon.lifeStages.2.labelPlural>
+  <RedDragon.lifeStages.2.labelMale>Roter Drache</RedDragon.lifeStages.2.labelMale>
+  <RedDragon.lifeStages.2.labelMalePlural>Rote Drachen</RedDragon.lifeStages.2.labelMalePlural>
+  <RedDragon.lifeStages.2.labelFemale>Roter Drache</RedDragon.lifeStages.2.labelFemale>
+  <RedDragon.lifeStages.2.labelFemalePlural>Rote Drachen</RedDragon.lifeStages.2.labelFemalePlural>
   <RedDragon.labelMale>Rotes Drachenmännchen</RedDragon.labelMale>
   <RedDragon.labelMalePlural>Rote Drachenmännchen</RedDragon.labelMalePlural>
   <RedDragon.labelFemale>Rotes Drachenweibchen</RedDragon.labelFemale>
