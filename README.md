@@ -1,3 +1,5 @@
-Rdy for Pull
+Proofread and corrected. Should be perfect and...
 
-Corrected and proofread
+Rdy for a Pull
+
+
